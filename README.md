@@ -1,5 +1,4 @@
 # examination-management-system
-[![Build Status](https://img.shields.io/badge/build-deployed-success)](https://examination-management-system.herokuapp.com/)
 # Overview
 Normally what happens is that on day of examination, every student has to look sitting arrangement and then rush towards the examination hall. The idea is to automate this whole process so that student can receive the seating arrangement on text message on the day of examination so that they can proceed directly towards the Hall.
 
@@ -69,5 +68,5 @@ $ npm install
 
 ## Contributors
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://github.com/davxe"><img src="https://avatars3.githubusercontent.com/u?s=40" alt="davxe" /></a></br>
-[PRINCE KAUSHAL](https://github.com/davxe)
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://github.com/antu4864"><img src="https://avatars3.githubusercontent.com/u?s=40" alt="antu4864" /></a></br>
+[Antu Kumar](https://github.com/antu4864)
